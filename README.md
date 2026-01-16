@@ -135,4 +135,4 @@ MIT License. Use it, modify it, automate it. Just don’t blame the script for a
 ## 👤 Author
 
 **Kroseez**
-System Administrator / PowerShell Developer
+System Administrator / Enthusiast
